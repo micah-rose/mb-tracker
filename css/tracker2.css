@@ -1,0 +1,55 @@
+.jumbotron {
+    background-color: palevioletred; /* Pink */
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    
+  
+  }
+
+  h2 {
+      font-size: 50px;
+      font-weight: bold;
+      color: rgb(5, 57, 126);
+  }
+
+  .top-content p {
+    font-size: 25px;
+  }
+
+  .middle-content h1 {
+      font-size: 40px;
+      color: rgb(5, 57, 126);
+      margin: .7em;
+  }
+
+  .counter-box {
+      color: black;
+      background-color: #ffffff;
+      border-radius: 7%;
+      margin: auto;
+      width: 50%;
+      padding: 20px;
+  }
+
+  .counter-box p {
+    font-size: 125px;
+    font-weight: bold;
+    padding: 5px;
+  }
+
+  button {
+    color: rgb(5, 57, 126);
+    margin: 20px;
+    border-radius: 7%;
+  }
+
+  .inspo-box {
+    margin: auto;
+    width: 25%;
+    padding: 10px;
+  }
+
+  .inspo-box p {
+    font-size: 40px;
+  }
