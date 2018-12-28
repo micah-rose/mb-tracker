@@ -1,42 +1,64 @@
-* {
-    margin: 0px;
-    padding: 0px;
+
+
+
+.container {
+  font-family: 'Amatic SC', cursive;
+  font-size: 20px;
 }
 
-html {
-    background-color: plum;
+.container a {
+  font-size: 40px;
+}
+
+.jumbotron {
+    background-color: palevioletred; /* Pink */
+    color: #ffffff;
     text-align: center;
-}
+    font-family: 'Amatic SC', cursive;
+    
+  }
 
-.all-content{
-    display: block;
-    margin: auto;
-    width: 50%;
-    padding: 10px;
-    border: solid 2px palevioletred;
-    border-radius: 5%;
-    background-color: palevioletred;
-    color: whitesmoke;
-}
+  .top-content {
+    margin-top: 40px;
+  }
 
-.middle-content{
-    margin: 20px;
-    padding: 20px;
-    background-color: royalblue;
-    border-radius: 5%;
-}
+  h2 {
+      font-size: 50px;
+      font-weight: bold;
+      color: rgb(5, 57, 126);
+  }
 
-.counter-box{
-    margin: 10px;
-    border: solid 3px plum;
-    border-radius: 5%;
-    background-color: plum;
-    font-size: 60px;
-}
+  .top-content p {
+    font-size: 25px;
+  }
 
-button{
-    background-color: whitesmoke;
-    font-size: 15px;
+  .middle-content h1 {
+      font-size: 40px;
+      color: rgb(5, 57, 126);
+      margin: .7em;
+  }
+
+  .counter-box {
+      color: black;
+      background-color: #ffffff;
+      border-radius: 7%;
+      margin: auto;
+      width: 50%;
+      padding: 20px;
+  }
+
+  .counter-box p {
+    font-size: 125px;
+    font-weight: bold;
     padding: 5px;
-    border-radius: 5%;
-}
+  }
+
+  .inspo-box {
+    margin: auto;
+    width: 25%;
+    padding: 20px;
+  }
+
+  .inspo-box p {
+    font-size: 40px;
+  }
