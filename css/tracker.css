@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html {
+    background-color: plum;
+    text-align: center;
+}
+
+.all-content{
+    display: block;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    border: solid 2px palevioletred;
+    border-radius: 5%;
+    background-color: palevioletred;
+    color: whitesmoke;
+}
+
+.middle-content{
+    margin: 20px;
+    padding: 20px;
+    background-color: royalblue;
+    border-radius: 5%;
+}
+
+.counter-box{
+    margin: 10px;
+    border: solid 3px plum;
+    border-radius: 5%;
+    background-color: plum;
+    font-size: 60px;
+}
+
+button{
+    background-color: whitesmoke;
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 5%;
+}
